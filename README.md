@@ -1,1 +1,1 @@
-# Train-Scheduler
+This is a basic scheduler for tracking train arrival times. Input the train, destination, train time, and frequency (min).
